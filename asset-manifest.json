@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Aseem123/first-react-website/static/css/main.c0c09f43.chunk.css",
-    "main.js": "/Aseem123/first-react-website/static/js/main.68cf6f09.chunk.js",
-    "main.js.map": "/Aseem123/first-react-website/static/js/main.68cf6f09.chunk.js.map",
-    "runtime-main.js": "/Aseem123/first-react-website/static/js/runtime-main.3582dd35.js",
-    "runtime-main.js.map": "/Aseem123/first-react-website/static/js/runtime-main.3582dd35.js.map",
-    "static/js/2.6e75c760.chunk.js": "/Aseem123/first-react-website/static/js/2.6e75c760.chunk.js",
-    "static/js/2.6e75c760.chunk.js.map": "/Aseem123/first-react-website/static/js/2.6e75c760.chunk.js.map",
-    "index.html": "/Aseem123/first-react-website/index.html",
-    "static/css/main.c0c09f43.chunk.css.map": "/Aseem123/first-react-website/static/css/main.c0c09f43.chunk.css.map",
-    "static/js/2.6e75c760.chunk.js.LICENSE.txt": "/Aseem123/first-react-website/static/js/2.6e75c760.chunk.js.LICENSE.txt",
-    "static/media/avatar.973be51e.jpg": "/Aseem123/first-react-website/static/media/avatar.973be51e.jpg"
+    "main.css": "/first-react-website/static/css/main.c0c09f43.chunk.css",
+    "main.js": "/first-react-website/static/js/main.68cf6f09.chunk.js",
+    "main.js.map": "/first-react-website/static/js/main.68cf6f09.chunk.js.map",
+    "runtime-main.js": "/first-react-website/static/js/runtime-main.4d9f4d8e.js",
+    "runtime-main.js.map": "/first-react-website/static/js/runtime-main.4d9f4d8e.js.map",
+    "static/js/2.6e75c760.chunk.js": "/first-react-website/static/js/2.6e75c760.chunk.js",
+    "static/js/2.6e75c760.chunk.js.map": "/first-react-website/static/js/2.6e75c760.chunk.js.map",
+    "index.html": "/first-react-website/index.html",
+    "static/css/main.c0c09f43.chunk.css.map": "/first-react-website/static/css/main.c0c09f43.chunk.css.map",
+    "static/js/2.6e75c760.chunk.js.LICENSE.txt": "/first-react-website/static/js/2.6e75c760.chunk.js.LICENSE.txt",
+    "static/media/avatar.973be51e.jpg": "/first-react-website/static/media/avatar.973be51e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3582dd35.js",
+    "static/js/runtime-main.4d9f4d8e.js",
     "static/js/2.6e75c760.chunk.js",
     "static/css/main.c0c09f43.chunk.css",
     "static/js/main.68cf6f09.chunk.js"
